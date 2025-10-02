@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Auto Aspect Ratio </h1>
   <p>
-    <img src="https://img.shields.io/github/v/release/ShinoMythmaker/AutoRatio?label=AutoRatio&color=blue">
+    <img src="https://img.shields.io/github/v/release/ShinoMythmaker/Auto-Ratio?label=AutoRatio&color=blue">
     <img src="https://img.shields.io/badge/Blender-4.4%2B-orange">
   </p>
 </div>
@@ -11,6 +11,9 @@
 
 Blender Auto Aspect Ratio Resolution is a simple plugin for Blender that helps you automatically adjust your render resolution to match a specified aspect ratio.  
 It also lets you quickly swap X and Y resolution values with a single click.
+
+<img width="406" height="304" alt="image" src="https://github.com/user-attachments/assets/7dd1de9a-278c-4a3f-b667-0429d10e255f" />
+
 
 ## Features
 
@@ -37,7 +40,7 @@ You can install AutoRatio using Blender's new Repository feature for easy update
 3. Click "**Add New Extension Repository**"
 4. Paste the following URL for the repo:
    ```
-   https://raw.githubusercontent.com/ShinoMythmaker/AutoRatio/main/repo.json
+   https://raw.githubusercontent.com/ShinoMythmaker/Auto-Ratio/main/repo.json
    ```
 5. Click **Check for Updates on Startup**.
 6. Click **Create**.
@@ -45,11 +48,14 @@ You can install AutoRatio using Blender's new Repository feature for easy update
 
 Blender will now keep AutoRatio up to date automatically!
 
+<img width="985" height="310" alt="image" src="https://github.com/user-attachments/assets/1b2dc913-c6d9-4b80-a93b-58836caada7d" />
+
+
 ## Manual Installation
 
 You can still install manually if you prefer:
 
-1. Download the latest release ZIP from the [Releases page](https://github.com/ShinoMythmaker/AutoRatio/releases).
+1. Download the latest release ZIP from the [Releases page](https://github.com/ShinoMythmaker/Auto-Ratio/releases).
 2. In Blender, go to **Edit > Preferences > Add-ons**.
 3. Click on the arrow in the top right and select **Install from Disk**, select the downloaded zip (`AutoRatio-<version>.zip`).
 4. Enable the add-on by ticking the checkbox next to **AutoRatio**.

@@ -1,0 +1,28 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "AutoRatio",
+      "name": "AutoRatio",
+      "tagline": "Adjust Resolution based on given Aspect Ratio",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "Shino Mythmaker",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "blender_version_max": "4.6.0",
+      "website": "https://github.com/ShinoMythmaker/Auto-Ratio",
+      "permissions": {},
+      "tags": [
+        "Output"
+      ],
+      "archive_url": "https://github.com/ShinoMythmaker/Auto-Ratio/releases/download/v1.0.0/Auto-Ratio-v1.0.0.zip",
+      "archive_size": 15189,
+      "archive_hash": "sha256:408dddbe8ac9a46e948bc43bc964b3d09aaab4a124ac76025ce790f39c8e23b1"
+    }
+  ]
+}

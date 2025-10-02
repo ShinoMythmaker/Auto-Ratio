@@ -3,6 +3,7 @@
   <p>
     <img src="https://img.shields.io/github/v/release/ShinoMythmaker/Auto-Ratio?label=AutoRatio&color=blue">
     <img src="https://img.shields.io/badge/Blender-4.4%2B-orange">
+    <a href="https://www.paypal.com/donate/?hosted_button_id=VVSSL3GDRSBNC"><img alt="Sponsor Badge" src="https://img.shields.io/badge/Dev-Sponsor-pink?style=flat"></a>
   </p>
 </div>
 

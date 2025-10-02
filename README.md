@@ -44,9 +44,9 @@ You can install AutoRatio using Blender's new Repository feature for easy update
    ```
 5. Click **Check for Updates on Startup**.
 6. Click **Create**.
-7. Search for Aetherbled and install.
+7. Search for Auto Ratio and install.
 
-Blender will now keep AutoRatio up to date automatically!
+Blender will now keep Auto Ratio up to date automatically!
 
 <img width="985" height="310" alt="image" src="https://github.com/user-attachments/assets/1b2dc913-c6d9-4b80-a93b-58836caada7d" />
 
